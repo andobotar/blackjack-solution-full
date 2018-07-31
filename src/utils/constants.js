@@ -1,0 +1,10 @@
+export const GAME_OVER = 'GAME_OVER';
+export const PLAYING = 'PLAYING';
+export const DEAL_MESSAGE = `Press 'Deal' to start the game`;
+export const HIT_OR_STAND = 'Hit or Stand?';
+export const OVERDRAWN = 'OVERDRAWN! Computer Wins!';
+export const PLAYER_WINS= 'Computer has overdrawn. Player Wins!';
+export const COMPUTER_WINS = 'Computer Wins';
+export const FOLDED_CARD = '00';
+export const DEALER_HIT_LIMIT = 17;
+export const BLACK_JACK_SCORE = 21;
